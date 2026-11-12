@@ -36,6 +36,9 @@ python3 scripts/make_previews.py                                  # key-moment s
 ```
 
 `render_animation.py` is resumable: it skips frames that already exist and writes each frame atomically.
+For long unattended runs, `python3 scripts/launch_render.py` starts the same render detached from the shell
+(log in `renders/render_main.log`), and `python3 scripts/render_watch.py` exits 0 when the render needs
+attention: all frames done, process gone, or no new frame for 20 minutes. Re-running the launcher resumes.
 `render_previews.py` renders arbitrary stills at any resolution/sample count for look development.
 
 ## Scene structure
