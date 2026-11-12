@@ -19,9 +19,9 @@ TEXTURES = {
     "stone_block_wall": "2k",
     "granite_tile": "2k",
 }
-# Displacement (not a tangent-space normal map) because materials use box projection
-# without UVs; the height map drives a Bump node instead.
-MAPS = {"Diffuse": "diff", "Displacement": "disp", "Rough": "rough"}
+# Materials use per-face planar UVs (see util.add_box_uvs), so tangent-space OpenGL normal maps
+# are used directly (much cheaper than box projection + a bump from a height map).
+MAPS = {"Diffuse": "diff", "nor_gl": "nor_gl", "Rough": "rough"}
 
 FONTS = {
     # SIL Open Font License, Google Fonts repository

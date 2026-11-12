@@ -152,7 +152,7 @@ def main():
         v = world_to_camera_view(scene, cam, heart_c)
         if not (0.0 <= v.x <= 1.0 and 0.0 <= v.y <= 1.0 and v.z > 0):
             heart_out.append(f)
-        if f >= 721:
+        if f >= 900:  # 721-900 is the planned pull-back out of the gem close-up
             vt, vb = world_to_camera_view(scene, cam, top), world_to_camera_view(scene, cam, base)
             if not (0 <= vt.y <= 1 and 0 <= vb.y <= 1 and 0 <= vt.x <= 1 and 0 <= vb.x <= 1):
                 trophy_out.append(f)
@@ -189,7 +189,7 @@ def main():
           f"{blocked[:10]}")
     check("heart_in_frame", not heart_out, f"{len(heart_out)} frame(s) with the heart outside the frame "
           f"{heart_out[:10]}")
-    check("trophy_in_frame_orbit_hero", not trophy_out, f"{len(trophy_out)} frame(s) 721-1800 cropping the "
+    check("trophy_in_frame_orbit_hero", not trophy_out, f"{len(trophy_out)} frame(s) 900-1800 cropping the "
           f"trophy {trophy_out[:10]}")
     print("[verify] stats", json.dumps(report["stats"]), flush=True)
     if a.json:

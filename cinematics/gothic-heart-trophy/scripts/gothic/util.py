@@ -112,6 +112,36 @@ def subsurf(ob, levels=1, render_levels=None):
     return mod
 
 
+def add_box_uvs(me, name="UVMap"):
+    """Per-face planar UVs in metres along each face's dominant normal axis.
+
+    This bakes box mapping into a UV map so stone materials need one texture lookup per map (plus a
+    tangent-space normal map) instead of three box-projected lookups and a three-tap bump."""
+    import numpy as np
+    if not me.polygons:
+        return
+    uv = me.uv_layers.get(name) or me.uv_layers.new(name=name)
+    n, nl = len(me.polygons), len(me.loops)
+    normals = np.empty(n * 3)
+    me.polygons.foreach_get("normal", normals)
+    starts = np.empty(n, dtype=np.int64)
+    totals = np.empty(n, dtype=np.int64)
+    me.polygons.foreach_get("loop_start", starts)
+    me.polygons.foreach_get("loop_total", totals)
+    vidx = np.empty(nl, dtype=np.int64)
+    me.loops.foreach_get("vertex_index", vidx)
+    co = np.empty(len(me.vertices) * 3)
+    me.vertices.foreach_get("co", co)
+    co = co.reshape(-1, 3)
+    axis = np.argmax(np.abs(normals.reshape(n, 3)), axis=1)
+    order = np.argsort(starts)
+    loop_axis = np.repeat(axis[order], totals[order])
+    P = co[vidx]
+    u = np.where(loop_axis == 0, P[:, 1], P[:, 0])
+    v = np.where(loop_axis == 2, P[:, 1], P[:, 2])
+    uv.data.foreach_set("uv", np.stack([u, v], axis=1).ravel())
+
+
 def lathe(bm, profile, segments, angle_offset=0.0, center=(0.0, 0.0, 0.0), cap_bottom=True, cap_top=True,
           mat=0, radial_fn=None):
     """Revolve a (radius, z) profile (bottom to top) around Z. Returns the rings of BMVerts.
@@ -452,6 +482,37 @@ def find_fcurve(id_data, data_path, index=0):
         return act.fcurves.find(data_path, index=index)
     except AttributeError:
         return None
+
+
+def c2_slopes(times, values, m_start=0.0, m_end=0.0):
+    """Slopes of the clamped cubic spline through the keys: continuous acceleration at every key
+    (C2), with the given end slopes. Solves the standard tridiagonal system (Thomas algorithm)."""
+    n = len(times)
+    if n < 3:
+        return [m_start, m_end][:n]
+    h = [times[i + 1] - times[i] for i in range(n - 1)]
+    d = [(values[i + 1] - values[i]) / h[i] for i in range(n - 1)]
+    m = [0.0] * n
+    m[0], m[-1] = m_start, m_end
+    a, b, c, r = [], [], [], []
+    for i in range(1, n - 1):
+        a.append(h[i])
+        b.append(2.0 * (h[i - 1] + h[i]))
+        c.append(h[i - 1])
+        r.append(3.0 * (h[i] * d[i - 1] + h[i - 1] * d[i]))
+    r[0] -= a[0] * m_start
+    r[-1] -= c[-1] * m_end
+    k = len(b)
+    for i in range(1, k):
+        w = a[i] / b[i - 1]
+        b[i] -= w * c[i - 1]
+        r[i] -= w * r[i - 1]
+    x = [0.0] * k
+    x[-1] = r[-1] / b[-1]
+    for i in range(k - 2, -1, -1):
+        x[i] = (r[i] - c[i] * x[i + 1]) / b[i]
+    m[1:-1] = x
+    return m
 
 
 def monotone_slopes(times, values):

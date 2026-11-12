@@ -122,6 +122,7 @@ class CandleKit:
         ob.location = loc
         ob.rotation_euler = (0, 0, self.rnd.uniform(0, 2 * math.pi))
         ob.scale = (1, 1, height_scale)
+        ob["candle_top"] = self.PRESETS[preset][1]  # drives the wax glow and wick ember in the shaders
         self.coll.objects.link(ob)
         ob.material_slots[0].link = "OBJECT"
         ob.material_slots[0].material = M.get(wax)

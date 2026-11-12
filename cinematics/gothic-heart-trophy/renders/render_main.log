@@ -1,0 +1,577 @@
+Blender 4.5.16 LTS (hash 3f6797307da5 built 2026-11-10 01:31:21)
+Read blend: "/tmp/hoplite/workspace/cinematics/gothic-heart-trophy/gothic_heart_trophy.blend"
+Fra:1 Mem:76.02M (Peak 76.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Floor_Nave
+Fra:1 Mem:76.03M (Peak 76.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Carpet_Runner
+Fra:1 Mem:76.06M (Peak 76.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Dais_Steps
+Fra:1 Mem:76.07M (Peak 76.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Altar_Marble
+Fra:1 Mem:76.12M (Peak 76.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Altar_Gilded_Arcade
+Fra:1 Mem:76.47M (Peak 76.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Plaque_Text
+Fra:1 Mem:76.60M (Peak 76.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Altar_Cabochon
+Fra:1 Mem:77.01M (Peak 77.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Pier_L_00
+Fra:1 Mem:77.50M (Peak 77.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Clerestory_Wall_L
+Fra:1 Mem:77.85M (Peak 77.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Arcade_Mouldings_L
+Fra:1 Mem:78.54M (Peak 78.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Clerestory_Wall_R
+Fra:1 Mem:78.77M (Peak 78.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Arcade_Mouldings_R
+Fra:1 Mem:79.46M (Peak 79.46M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Aisle_Wall_L
+Fra:1 Mem:79.58M (Peak 79.58M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Aisle_Ceiling_L
+Fra:1 Mem:79.58M (Peak 79.58M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Aisle_Wall_R
+Fra:1 Mem:79.70M (Peak 79.70M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Aisle_Ceiling_R
+Fra:1 Mem:79.70M (Peak 79.70M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Apse_Wall
+Fra:1 Mem:79.78M (Peak 79.78M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | West_Wall
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | West_Doors
+Fra:1 Mem:79.82M (Peak 79.82M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Nave_Vault
+Fra:1 Mem:79.84M (Peak 79.84M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Nave_Ribs
+Fra:1 Mem:80.64M (Peak 80.64M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Reredos_Body
+Fra:1 Mem:80.71M (Peak 80.71M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Reredos_Gilding
+Fra:1 Mem:81.12M (Peak 81.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Reredos_Mouldings
+Fra:1 Mem:81.23M (Peak 81.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Reredos_Drape
+Fra:1 Mem:81.64M (Peak 81.64M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Reredos_Drape_Rod
+Fra:1 Mem:81.67M (Peak 81.67M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_aisle_L_+0_Glass
+Fra:1 Mem:81.68M (Peak 81.68M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_aisle_L_+0_Tracery
+Fra:1 Mem:82.07M (Peak 82.07M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_+0_Glass
+Fra:1 Mem:82.07M (Peak 82.07M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_+0_Tracery
+Fra:1 Mem:82.47M (Peak 82.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_-3_Glass
+Fra:1 Mem:82.47M (Peak 82.47M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_-3_Tracery
+Fra:1 Mem:82.86M (Peak 82.86M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_-6_Glass
+Fra:1 Mem:82.87M (Peak 82.87M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_apse_-6_Tracery
+Fra:1 Mem:83.26M (Peak 83.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_west_+0_Glass
+Fra:1 Mem:83.27M (Peak 83.27M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_west_+0_Tracery
+Fra:1 Mem:84.18M (Peak 84.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_clere_L_+0_Glass
+Fra:1 Mem:84.19M (Peak 84.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Window_clere_L_+0_Tracery
+Fra:1 Mem:84.58M (Peak 84.58M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Base
+Fra:1 Mem:84.67M (Peak 84.67M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Beads
+Fra:1 Mem:85.24M (Peak 85.24M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Plaque
+Fra:1 Mem:85.24M (Peak 85.24M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Plaque_Border
+Fra:1 Mem:85.27M (Peak 85.27M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Stem
+Fra:1 Mem:85.31M (Peak 85.31M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Collars
+Fra:1 Mem:85.35M (Peak 85.35M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Heart_Ruby
+Fra:1 Mem:85.59M (Peak 85.59M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Heart_Core
+Fra:1 Mem:86.07M (Peak 86.07M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Heart_Bezel
+Fra:1 Mem:86.27M (Peak 86.27M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Sunburst
+Fra:1 Mem:86.32M (Peak 86.32M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Body
+Fra:1 Mem:87.12M (Peak 87.12M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Dust_Motes
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Sanctuary_Fill
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Nave_Fill
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Ember
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Gold_Glint
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Key
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Softbox
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Ruby_Glow
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Rim_Gold
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Rim_Cool
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Floor_Bounce
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Back_Strip
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Fill_Strip
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Top_Softbox
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Trophy_Key_Softbox
+Fra:1 Mem:87.44M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_apse_+3_Beam
+Fra:1 Mem:87.45M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_apse_+3_Sun
+Fra:1 Mem:87.45M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_apse_-3_Beam
+Fra:1 Mem:87.45M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_apse_-3_Sun
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_aisle_L_+5_Beam
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_aisle_L_+5_Sun
+Fra:1 Mem:87.46M (Peak 87.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_aisle_L_+3_Beam
+Fra:1 Mem:87.47M (Peak 87.47M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_aisle_L_+3_Sun
+Fra:1 Mem:87.47M (Peak 87.47M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_Trophy_Beam
+Fra:1 Mem:87.48M (Peak 87.48M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shaft_Trophy_Sun
+Fra:1 Mem:87.48M (Peak 87.48M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_071
+Fra:1 Mem:87.49M (Peak 87.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_070
+Fra:1 Mem:87.49M (Peak 87.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_069
+Fra:1 Mem:87.50M (Peak 87.50M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_068
+Fra:1 Mem:87.51M (Peak 87.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_067
+Fra:1 Mem:87.51M (Peak 87.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_066
+Fra:1 Mem:87.51M (Peak 87.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_065
+Fra:1 Mem:87.52M (Peak 87.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_064
+Fra:1 Mem:87.52M (Peak 87.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_063
+Fra:1 Mem:87.52M (Peak 87.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_062
+Fra:1 Mem:87.53M (Peak 87.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_061
+Fra:1 Mem:87.53M (Peak 87.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_060
+Fra:1 Mem:87.53M (Peak 87.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_059
+Fra:1 Mem:87.54M (Peak 87.54M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_058
+Fra:1 Mem:87.54M (Peak 87.54M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_057
+Fra:1 Mem:87.54M (Peak 87.54M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_056
+Fra:1 Mem:87.55M (Peak 87.55M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_055
+Fra:1 Mem:87.55M (Peak 87.55M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_054
+Fra:1 Mem:87.55M (Peak 87.55M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_053
+Fra:1 Mem:87.56M (Peak 87.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_052
+Fra:1 Mem:87.56M (Peak 87.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_051
+Fra:1 Mem:87.56M (Peak 87.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_050
+Fra:1 Mem:87.57M (Peak 87.57M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_049
+Fra:1 Mem:87.58M (Peak 87.58M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_048
+Fra:1 Mem:87.57M (Peak 87.58M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_047
+Fra:1 Mem:87.58M (Peak 87.58M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_046
+Fra:1 Mem:87.58M (Peak 87.58M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_045
+Fra:1 Mem:87.58M (Peak 87.58M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_044
+Fra:1 Mem:87.59M (Peak 87.59M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_043
+Fra:1 Mem:87.59M (Peak 87.59M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_042
+Fra:1 Mem:87.60M (Peak 87.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_041
+Fra:1 Mem:87.60M (Peak 87.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_040
+Fra:1 Mem:87.60M (Peak 87.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_039
+Fra:1 Mem:87.61M (Peak 87.61M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_038
+Fra:1 Mem:87.61M (Peak 87.61M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_037
+Fra:1 Mem:87.61M (Peak 87.61M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_036
+Fra:1 Mem:87.62M (Peak 87.62M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_035
+Fra:1 Mem:87.62M (Peak 87.62M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_034
+Fra:1 Mem:87.62M (Peak 87.62M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_033
+Fra:1 Mem:87.63M (Peak 87.63M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_032
+Fra:1 Mem:87.63M (Peak 87.63M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_031
+Fra:1 Mem:87.63M (Peak 87.63M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_030
+Fra:1 Mem:87.64M (Peak 87.64M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_029
+Fra:1 Mem:87.64M (Peak 87.64M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_028
+Fra:1 Mem:87.64M (Peak 87.64M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_027
+Fra:1 Mem:87.65M (Peak 87.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_026
+Fra:1 Mem:87.65M (Peak 87.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_025
+Fra:1 Mem:87.87M (Peak 87.87M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_024
+Fra:1 Mem:87.96M (Peak 87.96M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_023
+Fra:1 Mem:87.96M (Peak 87.96M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_022
+Fra:1 Mem:87.97M (Peak 87.97M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_021
+Fra:1 Mem:87.97M (Peak 87.97M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_020
+Fra:1 Mem:88.07M (Peak 88.07M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_018
+Fra:1 Mem:88.07M (Peak 88.07M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_017
+Fra:1 Mem:88.07M (Peak 88.07M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_016
+Fra:1 Mem:88.08M (Peak 88.08M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_015
+Fra:1 Mem:88.08M (Peak 88.08M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_014
+Fra:1 Mem:88.11M (Peak 88.11M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_013
+Fra:1 Mem:88.11M (Peak 88.11M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_012
+Fra:1 Mem:88.12M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_011
+Fra:1 Mem:88.12M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_010
+Fra:1 Mem:87.98M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_009
+Fra:1 Mem:87.56M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_007
+Fra:1 Mem:87.56M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_005
+Fra:1 Mem:87.56M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_004
+Fra:1 Mem:87.57M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_003
+Fra:1 Mem:87.57M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_002
+Fra:1 Mem:87.57M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_001
+Fra:1 Mem:87.58M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Petal_000
+Fra:1 Mem:87.49M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_36
+Fra:1 Mem:87.61M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Crown_Gold
+Fra:1 Mem:87.77M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_35
+Fra:1 Mem:88.10M (Peak 88.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_34
+Fra:1 Mem:88.40M (Peak 88.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_33
+Fra:1 Mem:88.49M (Peak 88.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_32
+Fra:1 Mem:88.53M (Peak 88.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_31
+Fra:1 Mem:88.70M (Peak 88.70M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_30
+Fra:1 Mem:88.79M (Peak 88.79M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_29
+Fra:1 Mem:88.84M (Peak 88.84M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_28
+Fra:1 Mem:88.95M (Peak 88.95M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_27
+Fra:1 Mem:88.87M (Peak 88.95M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Crown_Rubies
+Fra:1 Mem:88.96M (Peak 88.96M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_26
+Fra:1 Mem:89.04M (Peak 89.04M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Shield_Thorn_Vines
+Fra:1 Mem:89.37M (Peak 89.37M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_25
+Fra:1 Mem:89.47M (Peak 89.47M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_24
+Fra:1 Mem:89.55M (Peak 89.55M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_23
+Fra:1 Mem:89.60M (Peak 89.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_22
+Fra:1 Mem:89.71M (Peak 89.71M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_21
+Fra:1 Mem:89.80M (Peak 89.80M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_20
+Fra:1 Mem:89.85M (Peak 89.85M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_19
+Fra:1 Mem:90.00M (Peak 90.00M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_18
+Fra:1 Mem:90.09M (Peak 90.09M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_17
+Fra:1 Mem:90.15M (Peak 90.15M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_16
+Fra:1 Mem:90.25M (Peak 90.25M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_15
+Fra:1 Mem:90.34M (Peak 90.34M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_14
+Fra:1 Mem:90.44M (Peak 90.44M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Steps_13
+Fra:1 Mem:90.49M (Peak 90.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_001
+Fra:1 Mem:90.52M (Peak 90.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_12
+Fra:1 Mem:90.78M (Peak 90.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_11
+Fra:1 Mem:90.86M (Peak 90.86M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_10
+Fra:1 Mem:91.02M (Peak 91.02M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Flame_001
+Fra:1 Mem:91.05M (Peak 91.05M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_001
+Fra:1 Mem:91.05M (Peak 91.05M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_002
+Fra:1 Mem:91.12M (Peak 91.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_09
+Fra:1 Mem:91.26M (Peak 91.26M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_08
+Fra:1 Mem:91.31M (Peak 91.31M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_07
+Fra:1 Mem:91.45M (Peak 91.45M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_002
+Fra:1 Mem:91.45M (Peak 91.45M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_003
+Fra:1 Mem:91.56M (Peak 91.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_06
+Fra:1 Mem:91.66M (Peak 91.66M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_05
+Fra:1 Mem:91.73M (Peak 91.73M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_04
+Fra:1 Mem:91.81M (Peak 91.81M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_003
+Fra:1 Mem:91.83M (Peak 91.83M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_004
+Fra:1 Mem:91.85M (Peak 91.85M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_03
+Fra:1 Mem:92.09M (Peak 92.09M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_02
+Fra:1 Mem:92.14M (Peak 92.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_01
+Fra:1 Mem:92.22M (Peak 92.22M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Rose_Altar_00
+Fra:1 Mem:92.31M (Peak 92.31M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_062
+Fra:1 Mem:92.31M (Peak 92.31M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_062
+Fra:1 Mem:92.45M (Peak 92.45M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_004
+Fra:1 Mem:92.45M (Peak 92.45M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_005
+Fra:1 Mem:92.53M (Peak 92.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_005
+Fra:1 Mem:92.53M (Peak 92.53M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_006
+Fra:1 Mem:92.64M (Peak 92.64M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_061
+Fra:1 Mem:92.64M (Peak 92.64M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_061
+Fra:1 Mem:92.71M (Peak 92.71M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_060
+Fra:1 Mem:92.71M (Peak 92.71M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_060
+Fra:1 Mem:92.85M (Peak 92.85M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_006
+Fra:1 Mem:92.87M (Peak 92.87M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_007
+Fra:1 Mem:92.93M (Peak 92.93M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_007
+Fra:1 Mem:92.93M (Peak 92.93M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_008
+Fra:1 Mem:92.99M (Peak 92.99M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_008
+Fra:1 Mem:93.01M (Peak 93.01M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_009
+Fra:1 Mem:93.02M (Peak 93.02M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_059
+Fra:1 Mem:93.04M (Peak 93.04M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_059
+Fra:1 Mem:93.07M (Peak 93.07M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_009
+Fra:1 Mem:93.09M (Peak 93.09M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_010
+Fra:1 Mem:93.14M (Peak 93.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_058
+Fra:1 Mem:93.15M (Peak 93.15M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_058
+Fra:1 Mem:93.27M (Peak 93.27M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_010
+Fra:1 Mem:93.27M (Peak 93.27M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_011
+Fra:1 Mem:93.30M (Peak 93.30M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_011
+Fra:1 Mem:93.30M (Peak 93.30M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_012
+Fra:1 Mem:93.34M (Peak 93.34M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_012
+Fra:1 Mem:93.35M (Peak 93.35M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_013
+Fra:1 Mem:93.40M (Peak 93.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_057
+Fra:1 Mem:93.39M (Peak 93.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_057
+Fra:1 Mem:93.39M (Peak 93.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_014
+Fra:1 Mem:93.43M (Peak 93.43M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_014
+Fra:1 Mem:93.43M (Peak 93.43M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_015
+Fra:1 Mem:93.46M (Peak 93.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_015
+Fra:1 Mem:93.46M (Peak 93.46M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_016
+Fra:1 Mem:93.50M (Peak 93.50M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_016
+Fra:1 Mem:93.52M (Peak 93.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_017
+Fra:1 Mem:93.65M (Peak 93.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_017
+Fra:1 Mem:93.65M (Peak 93.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_018
+Fra:1 Mem:93.71M (Peak 93.71M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_018
+Fra:1 Mem:93.71M (Peak 93.71M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_019
+Fra:1 Mem:93.75M (Peak 93.75M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_019
+Fra:1 Mem:93.75M (Peak 93.75M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_020
+Fra:1 Mem:93.78M (Peak 93.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_020
+Fra:1 Mem:93.78M (Peak 93.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_021
+Fra:1 Mem:93.94M (Peak 93.94M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_056
+Fra:1 Mem:93.94M (Peak 93.94M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_056
+Fra:1 Mem:93.97M (Peak 93.97M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_021
+Fra:1 Mem:93.98M (Peak 93.98M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_022
+Fra:1 Mem:94.05M (Peak 94.05M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_055
+Fra:1 Mem:94.06M (Peak 94.06M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_055
+Fra:1 Mem:94.13M (Peak 94.13M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_022
+Fra:1 Mem:94.13M (Peak 94.13M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_054
+Fra:1 Mem:94.13M (Peak 94.13M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_054
+Fra:1 Mem:94.22M (Peak 94.22M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_053
+Fra:1 Mem:94.22M (Peak 94.22M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_053
+Fra:1 Mem:94.28M (Peak 94.28M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_052
+Fra:1 Mem:94.29M (Peak 94.29M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_052
+Fra:1 Mem:94.40M (Peak 94.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_051
+Fra:1 Mem:94.40M (Peak 94.40M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_051
+Fra:1 Mem:94.49M (Peak 94.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_023
+Fra:1 Mem:94.49M (Peak 94.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_050
+Fra:1 Mem:94.49M (Peak 94.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_024
+Fra:1 Mem:94.49M (Peak 94.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_050
+Fra:1 Mem:94.60M (Peak 94.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_024
+Fra:1 Mem:94.59M (Peak 94.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_025
+Fra:1 Mem:94.68M (Peak 94.68M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_049
+Fra:1 Mem:94.79M (Peak 94.79M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_048
+Fra:1 Mem:94.79M (Peak 94.79M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_048
+Fra:1 Mem:94.85M (Peak 94.85M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_025
+Fra:1 Mem:94.87M (Peak 94.87M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_026
+Fra:1 Mem:94.90M (Peak 94.90M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_047
+Fra:1 Mem:94.94M (Peak 94.94M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_047
+Fra:1 Mem:95.00M (Peak 95.00M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_046
+Fra:1 Mem:95.00M (Peak 95.00M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_046
+Fra:1 Mem:95.05M (Peak 95.05M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_026
+Fra:1 Mem:95.07M (Peak 95.07M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_027
+Fra:1 Mem:95.12M (Peak 95.12M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_045
+Fra:1 Mem:95.13M (Peak 95.13M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_045
+Fra:1 Mem:95.19M (Peak 95.19M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_027
+Fra:1 Mem:95.21M (Peak 95.21M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_028
+Fra:1 Mem:95.25M (Peak 95.25M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_028
+Fra:1 Mem:95.25M (Peak 95.25M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_029
+Fra:1 Mem:95.37M (Peak 95.37M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_029
+Fra:1 Mem:95.37M (Peak 95.37M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_030
+Fra:1 Mem:95.51M (Peak 95.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_030
+Fra:1 Mem:95.51M (Peak 95.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_031
+Fra:1 Mem:95.56M (Peak 95.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_031
+Fra:1 Mem:95.56M (Peak 95.56M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_032
+Fra:1 Mem:95.59M (Peak 95.59M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_032
+Fra:1 Mem:95.61M (Peak 95.61M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_033
+Fra:1 Mem:95.78M (Peak 95.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_033
+Fra:1 Mem:95.78M (Peak 95.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_034
+Fra:1 Mem:96.31M (Peak 96.31M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_034
+Fra:1 Mem:96.32M (Peak 96.32M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_035
+Fra:1 Mem:96.18M (Peak 96.32M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_035
+Fra:1 Mem:96.18M (Peak 96.32M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_036
+Fra:1 Mem:96.35M (Peak 96.35M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_036
+Fra:1 Mem:96.35M (Peak 96.35M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_037
+Fra:1 Mem:96.52M (Peak 96.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_037
+Fra:1 Mem:96.52M (Peak 96.52M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_038
+Fra:1 Mem:96.59M (Peak 96.59M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_038
+Fra:1 Mem:96.59M (Peak 96.59M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_039
+Fra:1 Mem:96.65M (Peak 96.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_039
+Fra:1 Mem:96.65M (Peak 96.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_040
+Fra:1 Mem:96.68M (Peak 96.68M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_040
+Fra:1 Mem:96.68M (Peak 96.68M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_041
+Fra:1 Mem:96.79M (Peak 96.79M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_041
+Fra:1 Mem:96.79M (Peak 96.79M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_042
+Fra:1 Mem:96.87M (Peak 96.87M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_042
+Fra:1 Mem:96.87M (Peak 96.87M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_043
+Fra:1 Mem:96.93M (Peak 96.93M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_043
+Fra:1 Mem:97.10M (Peak 97.10M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | Candle_044
+Fra:1 Mem:97.14M (Peak 97.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_044
+Fra:1 Mem:96.78M (Peak 97.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Initializing
+Fra:1 Mem:96.78M (Peak 97.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Updating Images | Loading stone_block_wall_nor_gl_2k.jpg
+Fra:1 Mem:96.78M (Peak 97.14M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | GothicHeart, ViewLayer | Updating Images | Loading large_floor_tiles_02_diff_2k.jpg
+Fra:1 Mem:128.79M (Peak 144.79M) | Time:00:00.12 | Mem:16.00M, Peak:16.00M | GothicHeart, ViewLayer | Updating Images | Loading large_floor_tiles_02_rough_2k.jpg
+Fra:1 Mem:144.79M (Peak 160.80M) | Time:00:00.13 | Mem:32.00M, Peak:32.00M | GothicHeart, ViewLayer | Updating Images | Loading stone_block_wall_rough_2k.jpg
+Fra:1 Mem:160.79M (Peak 176.80M) | Time:00:00.14 | Mem:48.00M, Peak:48.00M | GothicHeart, ViewLayer | Updating Images | Loading large_floor_tiles_02_nor_gl_2k.jpg
+Fra:1 Mem:176.79M (Peak 192.80M) | Time:00:00.15 | Mem:64.00M, Peak:64.00M | GothicHeart, ViewLayer | Updating Images | Loading stone_block_wall_diff_2k.jpg
+Fra:1 Mem:192.79M (Peak 208.80M) | Time:00:00.16 | Mem:80.00M, Peak:80.00M | GothicHeart, ViewLayer | Updating Images | Loading granite_tile_diff_2k.jpg
+Fra:1 Mem:208.79M (Peak 224.80M) | Time:00:00.18 | Mem:96.00M, Peak:96.00M | GothicHeart, ViewLayer | Updating Images | Loading granite_tile_nor_gl_2k.jpg
+Fra:1 Mem:224.79M (Peak 240.80M) | Time:00:00.20 | Mem:112.00M, Peak:112.00M | GothicHeart, ViewLayer | Updating Images | Loading granite_tile_rough_2k.jpg
+Fra:1 Mem:240.79M (Peak 256.80M) | Time:00:00.22 | Mem:144.00M, Peak:144.00M | GothicHeart, ViewLayer | Waiting for render to start
+Fra:1 Mem:240.79M (Peak 256.80M) | Time:00:00.22 | Mem:144.00M, Peak:144.00M | GothicHeart, ViewLayer | Updating Scene
+Fra:1 Mem:240.79M (Peak 256.80M) | Time:00:00.22 | Mem:144.00M, Peak:144.00M | GothicHeart, ViewLayer | Updating Shaders
+Fra:1 Mem:240.79M (Peak 256.80M) | Time:00:00.22 | Mem:144.00M, Peak:144.00M | GothicHeart, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Procedurals
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Background
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Camera
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Objects
+Fra:1 Mem:240.95M (Peak 256.80M) | Time:00:00.22 | Mem:144.07M, Peak:144.07M | GothicHeart, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:241.05M (Peak 256.80M) | Time:00:00.22 | Mem:144.18M, Peak:144.18M | GothicHeart, ViewLayer | Updating Particle Systems
+Fra:1 Mem:241.05M (Peak 256.80M) | Time:00:00.22 | Mem:144.18M, Peak:144.18M | GothicHeart, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:241.05M (Peak 256.80M) | Time:00:00.22 | Mem:144.18M, Peak:144.18M | GothicHeart, ViewLayer | Updating Meshes
+Fra:1 Mem:244.74M (Peak 256.80M) | Time:00:00.24 | Mem:144.18M, Peak:144.18M | GothicHeart, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:244.74M (Peak 256.80M) | Time:00:00.25 | Mem:144.18M, Peak:144.18M | GothicHeart, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:251.20M (Peak 256.80M) | Time:00:00.25 | Mem:144.21M, Peak:144.21M | GothicHeart, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.25 | Mem:150.58M, Peak:150.58M | GothicHeart, ViewLayer | Updating Geometry BVH Pier_Clustered 2/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.25 | Mem:150.58M, Peak:150.58M | GothicHeart, ViewLayer | Updating Geometry BVH Candelabra_Iron 12/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.27 | Mem:150.64M, Peak:150.64M | GothicHeart, ViewLayer | Updating Geometry BVH Candelabra_Iron 12/11 | Building BVH 0%
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:150.98M, Peak:151.01M | GothicHeart, ViewLayer | Updating Geometry BVH Glass_aisle 3/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.02M, Peak:151.02M | GothicHeart, ViewLayer | Updating Geometry BVH Tracery_aisle 4/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.33M, Peak:151.44M | GothicHeart, ViewLayer | Updating Geometry BVH Flame_Unit 11/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.44M, Peak:151.44M | GothicHeart, ViewLayer | Updating Geometry BVH Tracery_clere 10/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.45M, Peak:151.45M | GothicHeart, ViewLayer | Updating Geometry BVH Glass_apse_s 5/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.46M, Peak:151.46M | GothicHeart, ViewLayer | Updating Geometry BVH Tracery_apse_s 6/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.98M, Peak:152.10M | GothicHeart, ViewLayer | Updating Geometry BVH Glass_apse_a 7/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.99M, Peak:152.10M | GothicHeart, ViewLayer | Updating Geometry BVH Tracery_apse_a 8/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:151.99M, Peak:152.10M | GothicHeart, ViewLayer | Updating Geometry BVH Glass_clere 9/11 | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:152.15M, Peak:152.27M | GothicHeart, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.28 | Mem:152.15M, Peak:152.27M | GothicHeart, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.32 | Mem:170.47M, Peak:179.06M | GothicHeart, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:251.14M (Peak 256.80M) | Time:00:00.32 | Mem:170.47M, Peak:179.06M | GothicHeart, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:259.80M (Peak 259.80M) | Time:00:00.33 | Mem:170.47M, Peak:179.06M | GothicHeart, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:259.80M (Peak 259.80M) | Time:00:00.33 | Mem:179.13M, Peak:179.13M | GothicHeart, ViewLayer | Updating Mesh | Copying Point clouds to device
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.26M, Peak:179.26M | GothicHeart, ViewLayer | Updating Objects Flags
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.26M, Peak:179.26M | GothicHeart, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.27M, Peak:179.27M | GothicHeart, ViewLayer | Updating Images
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.27M, Peak:179.27M | GothicHeart, ViewLayer | Updating Camera Volume
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.27M, Peak:179.27M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:259.94M (Peak 259.94M) | Time:00:00.33 | Mem:179.35M, Peak:179.35M | GothicHeart, ViewLayer | Updating Lights
+Fra:1 Mem:259.95M (Peak 259.95M) | Time:00:00.33 | Mem:179.35M, Peak:179.35M | GothicHeart, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:260.88M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Updating Integrator
+Fra:1 Mem:260.88M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Updating Film
+Fra:1 Mem:260.89M (Peak 274.19M) | Time:00:00.33 | Mem:180.21M, Peak:180.29M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:260.89M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Updating Baking
+Fra:1 Mem:260.89M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:260.90M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:260.90M (Peak 274.19M) | Time:00:00.33 | Mem:180.29M, Peak:180.29M | GothicHeart, ViewLayer | Sample 0/4
+Fra:1 Mem:403.30M (Peak 403.30M) | Time:00:11.72 | Remaining:00:34.15 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 1/4
+Fra:1 Mem:403.30M (Peak 403.30M) | Time:00:37.93 | Remaining:00:12.53 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 3/4
+Fra:1 Mem:498.23M (Peak 624.80M) | Time:00:54.96 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 4/4
+Fra:1 Mem:498.23M (Peak 624.80M) | Time:00:54.96 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Finished
+Fra:1 Mem:498.23M (Peak 624.80M) | Time:00:54.98 | Compositing
+Saved: '/tmp/hoplite/workspace/cinematics/gothic-heart-trophy/renders/frames/.tmp_slice0.png'
+Time: 00:55.91 (Saving: 00:00.26)
+
+[anim] frame 1 56.0s (slice eta 27.96 h)
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_001
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_002
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_003
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_004
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_005
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_006
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_007
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_008
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_009
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_010
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_011
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_012
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_013
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_014
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_015
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_016
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_017
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_018
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_019
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_020
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_021
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_022
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_023
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_024
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_025
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_026
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_027
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_028
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_029
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_030
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_031
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_032
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_033
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_034
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_035
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_036
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_037
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_038
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_039
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_040
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_041
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_042
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_043
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_044
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_045
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_046
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_047
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_048
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_049
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_050
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_051
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_052
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_053
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_054
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_055
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_056
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_057
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_058
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_059
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_060
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_061
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_062
+Fra:2 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | Dust_Motes
+Fra:2 Mem:403.60M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Initializing
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Waiting for render to start
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Shaders
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Background
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Camera
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Meshes Flags
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Particle Systems
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Meshes
+Fra:2 Mem:388.10M (Peak 403.60M) | Time:00:00.02 | Mem:289.17M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:2 Mem:388.10M (Peak 403.60M) | Time:00:00.02 | Mem:289.17M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Computing attributes
+Fra:2 Mem:394.56M (Peak 403.60M) | Time:00:00.02 | Mem:289.20M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:2 Mem:394.50M (Peak 403.60M) | Time:00:00.02 | Mem:295.57M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building
+Fra:2 Mem:394.51M (Peak 403.60M) | Time:00:00.02 | Mem:295.57M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building BVH
+Fra:2 Mem:394.51M (Peak 403.60M) | Time:00:00.02 | Mem:304.53M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:2 Mem:394.51M (Peak 403.60M) | Time:00:00.05 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:2 Mem:394.51M (Peak 403.60M) | Time:00:00.05 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Computing normals
+Fra:2 Mem:403.17M (Peak 403.60M) | Time:00:00.06 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:2 Mem:403.17M (Peak 403.60M) | Time:00:00.06 | Mem:322.55M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Point clouds to device
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects Flags
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Primitive Offsets
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Images
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Camera Volume
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:2 Mem:403.30M (Peak 403.60M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lights
+Fra:2 Mem:402.37M (Peak 403.60M) | Time:00:00.06 | Mem:321.75M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lights | Computing tree
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Integrator
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Film
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Baking
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Device | Writing constant memory
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 0/4
+Fra:2 Mem:403.30M (Peak 416.62M) | Time:00:08.02 | Remaining:00:23.87 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 1/4
+Fra:2 Mem:498.23M (Peak 624.80M) | Time:00:41.66 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 4/4
+Fra:2 Mem:498.23M (Peak 624.80M) | Time:00:41.66 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Finished
+Fra:2 Mem:498.23M (Peak 624.80M) | Time:00:41.66 | Compositing
+Saved: '/tmp/hoplite/workspace/cinematics/gothic-heart-trophy/renders/frames/.tmp_slice0.png'
+Time: 00:42.55 (Saving: 00:00.19)
+
+[anim] frame 2 42.6s (slice eta 24.60 h)
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_001
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_002
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_003
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_004
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_005
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_006
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_007
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_008
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_009
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_010
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_011
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_012
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_013
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_014
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_015
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_016
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_017
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_018
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_019
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_020
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_021
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_022
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_023
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_024
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_025
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_026
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_027
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_028
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_029
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_030
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_031
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_032
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_033
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_034
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_035
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_036
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_037
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_038
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_039
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_040
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_041
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_042
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_043
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_044
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_045
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_046
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_047
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_048
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_049
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_050
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_051
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_052
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_053
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_054
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_055
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_056
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_057
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_058
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_059
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_060
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_061
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | CandleLight_062
+Fra:3 Mem:403.31M (Peak 403.31M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Synchronizing object | Dust_Motes
+Fra:3 Mem:403.60M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Initializing
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Waiting for render to start
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Shaders
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Background
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Camera
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Meshes Flags
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.01 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Particle Systems
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.02 | Mem:304.37M, Peak:322.69M | GothicHeart, ViewLayer | Updating Meshes
+Fra:3 Mem:388.10M (Peak 403.60M) | Time:00:00.02 | Mem:289.17M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:3 Mem:388.10M (Peak 403.60M) | Time:00:00.02 | Mem:289.17M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Computing attributes
+Fra:3 Mem:394.56M (Peak 403.60M) | Time:00:00.02 | Mem:289.20M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:3 Mem:394.50M (Peak 403.60M) | Time:00:00.02 | Mem:295.57M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building
+Fra:3 Mem:394.51M (Peak 403.60M) | Time:00:00.02 | Mem:295.57M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building BVH
+Fra:3 Mem:394.51M (Peak 403.60M) | Time:00:00.02 | Mem:304.53M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:3 Mem:394.51M (Peak 403.60M) | Time:00:00.05 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:3 Mem:394.51M (Peak 403.60M) | Time:00:00.05 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Computing normals
+Fra:3 Mem:403.17M (Peak 403.60M) | Time:00:00.05 | Mem:313.90M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:3 Mem:403.17M (Peak 403.60M) | Time:00:00.05 | Mem:322.55M, Peak:322.69M | GothicHeart, ViewLayer | Updating Mesh | Copying Point clouds to device
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Objects Flags
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Primitive Offsets
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Images
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Camera Volume
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:3 Mem:403.30M (Peak 403.60M) | Time:00:00.05 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lights
+Fra:3 Mem:402.37M (Peak 403.60M) | Time:00:00.05 | Mem:321.75M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lights | Computing tree
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Integrator
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Film
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Lookup Tables
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Baking
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Updating Device | Writing constant memory
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:00.06 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 0/4
+Fra:3 Mem:403.30M (Peak 416.62M) | Time:00:08.09 | Remaining:00:24.10 | Mem:322.69M, Peak:322.69M | GothicHeart, ViewLayer | Sample 1/4

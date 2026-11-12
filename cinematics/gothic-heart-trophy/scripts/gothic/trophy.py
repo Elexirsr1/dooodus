@@ -223,7 +223,7 @@ def _heart(coll, root, silver):
     gem = finish_bmesh(bm, "Trophy_Heart_Ruby", coll, [M.get("ruby")], parent=root)
     gem.visible_shadow = False  # lets the internal red light escape onto the silverwork
     bm = bmesh.new()
-    faceted_heart(bm, scale=HEART_SCALE * 0.56, depth=0.022, crown=0.016, girdle=0.004, z=HEART_Z - 0.006,
+    faceted_heart(bm, scale=HEART_SCALE * 0.48, depth=0.019, crown=0.014, girdle=0.004, z=HEART_Z - 0.008,
                   crown_scale=0.7, table_scale=0.45)
     core = finish_bmesh(bm, "Trophy_Heart_Core", coll, [M.get("gem_core")], smooth=True, parent=root)
     subsurf(core, 2)

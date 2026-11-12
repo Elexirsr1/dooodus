@@ -146,16 +146,16 @@ def build(root, scene, arch, trophy, shield):
     wt = WINDOW_TYPES["clere"]
     wc = w["matrix"] @ Vector((0, 0, (wt["sill"] + wt["spring"]) / 2 + 0.5))
     d_trophy = (Vector((0.0, 0.05, 1.95)) - wc).normalized()
-    shaft(shafts, w, d_trophy, 120000.0, 0.055, pale=0.72, name="Shaft_Trophy")
-    # south aisle windows far down the nave: long raking shafts across the floor
+    shaft(shafts, w, d_trophy, 120000.0, 0.075, pale=0.72, name="Shaft_Trophy")
+    # south aisle windows down the nave: long raking shafts across the floor (two, to bound render cost:
+    # every shaft a camera ray crosses costs two extra intersections)
     d_aisle = Vector((0.58, -0.08, -0.81))
-    for bay in (3, 4, 5):
-        shaft(shafts, find_window(windows, "aisle_L", bay), d_aisle, 160000.0, 0.05)
-    # apse lancets beside and above the reredos
+    for bay in (3, 5):
+        shaft(shafts, find_window(windows, "aisle_L", bay), d_aisle, 160000.0, 0.068)
+    # apse side lancets: shafts falling beside the reredos, framing the shield
     d_apse = Vector((0.0, -0.5, -0.866))
     for bay in (-3, 3):
-        shaft(shafts, find_window(windows, "apse", bay), d_apse, 140000.0, 0.045)
-    shaft(shafts, find_window(windows, "apse", 0), d_apse, 140000.0, 0.05, clip_z=7.0)
+        shaft(shafts, find_window(windows, "apse", bay), d_apse, 140000.0, 0.062)
 
     # --- trophy: softboxes the silver can reflect, cool and gold rims (all linked to the trophy only) --
     tl = collection("Trophy_Lights", coll)

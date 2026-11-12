@@ -6,7 +6,7 @@ FPS = 120
 FRAMES = (1, 1800)
 
 
-def configure(scene, samples=96, adaptive_threshold=0.02, min_samples=24):
+def configure(scene, samples=4, adaptive=False, adaptive_threshold=0.05, min_samples=2):
     r = scene.render
     r.engine = "CYCLES"
     cy = scene.cycles
@@ -19,7 +19,9 @@ def configure(scene, samples=96, adaptive_threshold=0.02, min_samples=24):
     scene.frame_step = 1
 
     cy.samples = samples
-    cy.use_adaptive_sampling = True
+    # 4 samples + OpenImageDenoise (albedo+normal) is what fits 1800 frames on the 2-vCPU render box:
+    # ~9 s per full-frame sample pass, ~9 s denoise -> ~45-50 s per 1080p frame
+    cy.use_adaptive_sampling = adaptive
     cy.adaptive_threshold = adaptive_threshold
     cy.adaptive_min_samples = min_samples
     cy.use_denoising = True
@@ -27,16 +29,17 @@ def configure(scene, samples=96, adaptive_threshold=0.02, min_samples=24):
     cy.denoising_input_passes = "RGB_ALBEDO_NORMAL"
     cy.denoising_prefilter = "ACCURATE"
     cy.denoising_quality = "HIGH"
+    cy.debug_use_spatial_splits = True  # tighter BVH for the long architectural triangles; built once (persistent data)
     cy.use_light_tree = True
     cy.max_bounces = 10
-    cy.diffuse_bounces = 2
-    cy.glossy_bounces = 4
-    cy.transmission_bounces = 8
+    cy.diffuse_bounces = 1
+    cy.glossy_bounces = 2
+    cy.transmission_bounces = 4
     cy.volume_bounces = 0
-    cy.transparent_max_bounces = 32
+    cy.transparent_max_bounces = 16
     cy.sample_clamp_direct = 0.0
-    cy.sample_clamp_indirect = 6.0
-    cy.blur_glossy = 0.6
+    cy.sample_clamp_indirect = 4.0
+    cy.blur_glossy = 1.0
     cy.caustics_reflective = False
     cy.caustics_refractive = False
     cy.use_animated_seed = False  # residual noise stays put between frames instead of boiling
@@ -44,8 +47,8 @@ def configure(scene, samples=96, adaptive_threshold=0.02, min_samples=24):
     cy.pixel_filter_type = "BLACKMAN_HARRIS"
     cy.filter_width = 1.5
 
-    r.use_motion_blur = True
-    r.motion_blur_shutter = 0.5    # 180 degree shutter at 120 fps
+    r.use_motion_blur = False  # at 120 fps a 180-degree shutter is ~1/240 s; not worth the extra noise and BVH cost
+    r.motion_blur_shutter = 0.5
     r.use_persistent_data = True   # keep BVH/textures between frames of the animation
     r.film_transparent = False
     r.use_compositing = True

@@ -12,7 +12,8 @@ import bpy
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from gothic import architecture, camera_rig, effects, lighting, props, render_setup, shield, trophy, util  # noqa: E402
+from gothic import (architecture, camera_rig, effects, lighting, materials, props, render_setup, shield,  # noqa: E402
+                    trophy, util)
 
 
 def parse_args():
@@ -39,6 +40,11 @@ def main():
     lighting.build(root, scene, arch, tro, shi)
     effects.build(root, scene, cam["camera"])
     render_setup.configure(scene)
+    # stone shaders sample UV-mapped textures: give every stone mesh planar per-face UVs (in metres)
+    stone = materials.stone_material_names()
+    for me in bpy.data.meshes:
+        if any(m is not None and m.name in stone for m in me.materials):
+            util.add_box_uvs(me)
     scene.frame_set(1)
 
     if not args.no_pack:

@@ -16,7 +16,15 @@ import math
 import bpy
 from mathutils import Vector
 
-from .util import collection, empty, hermite_keys
+from .util import c2_slopes, collection, empty, hermite_keys
+
+
+def smooth(keys):
+    """Replace per-key slopes with a clamped C2 spline (continuous acceleration, starts/ends at rest)."""
+    times = [k[0] for k in keys]
+    values = [k[1] for k in keys]
+    slopes = c2_slopes(times, values, 0.0, 0.0)
+    return [(t, v, m) for t, v, m in zip(times, values, slopes)]
 
 FPS = 120
 SEGMENTS = (("Approach", 1), ("Heart close-up", 361), ("Orbit 360", 721), ("Hero", 1681))
@@ -72,10 +80,12 @@ def build(root, heart_world):
     tr.up_axis = "UP_Y"
     bpy.context.scene.camera = cam
 
-    ch = channels(heart_world.z)
-    hermite_keys(pivot, "rotation_euler", 2, [(f, math.radians(v), None if m is None else math.radians(m))
-                                               for (f, v, m) in ch["theta"]])
-    hermite_keys(cam, "location", 1, [(f, -v, None if m is None else -m) for (f, v, m) in ch["dist"]])
+    raw = channels(heart_world.z)
+    # position channels get C2 splines (continuous acceleration, no kicks at keys); aim, lens and f-stop
+    # have plateaus where a C2 spline would sag, so they keep the overshoot-free monotone Hermite curves
+    ch = {k: (smooth(v) if k in ("theta", "dist", "height") else v) for k, v in raw.items()}
+    hermite_keys(pivot, "rotation_euler", 2, [(f, math.radians(v), math.radians(m)) for (f, v, m) in ch["theta"]])
+    hermite_keys(cam, "location", 1, [(f, -v, -m) for (f, v, m) in ch["dist"]])
     hermite_keys(cam, "location", 2, ch["height"])
     hermite_keys(cam, "location", 0, [(1, 0.0, 0.0), (1800, 0.0, 0.0)])
     hermite_keys(aim, "location", 2, ch["aim_z"])

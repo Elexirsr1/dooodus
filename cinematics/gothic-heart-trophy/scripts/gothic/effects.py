@@ -6,7 +6,7 @@ from . import materials as M
 from .util import NodeBuilder, collection
 
 
-def dust(root, camera_ob, count=14000, bounds=((-8.4, 6.5), (-20.0, 5.0), (0.15, 9.0)), seed=3):
+def dust(root, camera_ob, count=7000, bounds=((-8.4, 6.5), (-20.0, 5.0), (0.15, 9.0)), seed=3):
     coll = collection("Atmosphere", root)
     me = bpy.data.meshes.new("Dust_Host")
     ob = bpy.data.objects.new("Dust_Motes", me)

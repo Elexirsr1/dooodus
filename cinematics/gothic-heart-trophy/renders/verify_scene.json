@@ -1,0 +1,83 @@
+{
+  "checks": {
+    "frame_range": {
+      "ok": true,
+      "detail": "1-1800 (1800 frames)"
+    },
+    "fps": {
+      "ok": true,
+      "detail": "120/1.0"
+    },
+    "duration_s": {
+      "ok": true,
+      "detail": "15.000 s"
+    },
+    "resolution": {
+      "ok": true,
+      "detail": "1920x1080 @ 100%"
+    },
+    "engine": {
+      "ok": true,
+      "detail": "CYCLES"
+    },
+    "color_management": {
+      "ok": true,
+      "detail": "AgX / AgX - Medium High Contrast"
+    },
+    "textures_packed": {
+      "ok": true,
+      "detail": "all image files packed"
+    },
+    "fonts_packed": {
+      "ok": true,
+      "detail": "fonts packed"
+    },
+    "materials_assigned": {
+      "ok": true,
+      "detail": "0 meshes without material: []"
+    },
+    "orbit_360": {
+      "ok": true,
+      "detail": "azimuth change 721->1680 = -360.0000 deg"
+    },
+    "camera_clearance": {
+      "ok": true,
+      "detail": "min distance to scene geometry 0.879 m at frame 653 (nearest point (0.167, -0.618, 1.268))"
+    },
+    "trophy_clearance": {
+      "ok": true,
+      "detail": "min distance to trophy 1.017 m at frame 649"
+    },
+    "camera_outside_light_shafts": {
+      "ok": true,
+      "detail": "0 frame(s) inside a shaft volume []"
+    },
+    "heart_unobstructed": {
+      "ok": true,
+      "detail": "0 frame(s) with geometry between lens and heart []"
+    },
+    "heart_in_frame": {
+      "ok": true,
+      "detail": "0 frame(s) with the heart outside the frame []"
+    },
+    "trophy_in_frame_orbit_hero": {
+      "ok": true,
+      "detail": "0 frame(s) 900-1800 cropping the trophy []"
+    }
+  },
+  "stats": {
+    "max_speed_m_s": 3.113,
+    "max_accel_m_s2": 3.308,
+    "max_jerk_m_s3": 2.17,
+    "max_view_rotation_deg_s": 57.37,
+    "min_clearance_m": 0.879,
+    "min_clearance_frame": 653,
+    "min_clearance_point": [
+      0.167,
+      -0.618,
+      1.268
+    ],
+    "min_trophy_clearance_m": 1.017,
+    "min_trophy_clearance_frame": 649
+  }
+}
