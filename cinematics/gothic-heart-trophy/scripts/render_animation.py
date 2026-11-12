@@ -31,6 +31,8 @@ def main():
         scene.render.threads_mode = "FIXED"
         scene.render.threads = a.threads
     scene.render.resolution_percentage = 100
+    with open(os.path.join(out, "render.pid"), "w") as fh:  # lets render_watch.py tell alive from dead
+        fh.write(str(os.getpid()))
     log = open(os.path.join(out, f"progress_slice{a.slice}.log"), "a", buffering=1)
     todo = [f for f in range(a.start, a.end + 1) if (f - a.start) % a.slices == a.slice
             and not os.path.exists(os.path.join(out, f"frame_{f:04d}.png"))]
