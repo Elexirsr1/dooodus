@@ -1,0 +1,5 @@
+# Blender outputs that are rebuilt or delivered separately
+*.blend1
+renders/frames/
+output/
+__pycache__/
