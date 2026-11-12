@@ -3,3 +3,4 @@
 renders/frames/
 output/
 __pycache__/
+renders/*.log
